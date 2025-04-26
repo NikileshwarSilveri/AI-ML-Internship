@@ -1,3 +1,5 @@
+![Internship Status](https://img.shields.io/badge/Project-Ongoing-blue)
+
 # AI-ML-Internship
 AI Classification Internship Progress
 
